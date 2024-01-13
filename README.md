@@ -51,7 +51,7 @@ necessário utilizar o método getVenda para exibir a última venda registrada e
 estoque atual do produto.
 Observações:
 ● O código resposta deverá ser hospedado no gitHub e enviado o link do repositório
-para: erivan@objetivosistemas.com.br
+para: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ● É estritamente proibido utilizar trechos de códigos plagiados da internet;
 ● É necessário explicar através de comentários a lógica aplicada;
 ● Você terá total liberdade para a criação do código, desde que não fuja das
